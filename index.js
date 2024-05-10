@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Robin NTW","Playing Minecraft"];
+const statusMessages = ["Wathcing 24/7 best spawn server","Playing Updations IN PKhell","https://bit.ly/pokehell Best server"];
 
 
 let currentIndex = 0;
